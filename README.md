@@ -1,6 +1,6 @@
 <h1 align="center">GraphQl editor</h1>
 
-In collaboration with: [predmaxim](https://github.com/predmaxim), [irinaid](https://github.com/IrinaIID)
+In collaboration with: [sanich123](https://github.com/sanich123) , [predmaxim](https://github.com/predmaxim)
 
 1. How to launch:
    
